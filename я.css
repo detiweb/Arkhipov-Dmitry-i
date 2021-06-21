@@ -1,0 +1,21 @@
+h1{
+	font-size: 30px;
+	background: white;
+	font-family: 'Comfortaa', cursive;
+}
+body{
+	background: url(fon.jpg);
+	font-family: 'Comfortaa', cursive;
+}
+p{
+	background: white;
+	font-family: 'Comfortaa', cursive;
+	width: 50%;
+}
+span{
+	background: white;
+}
+img{
+	width: 500px;
+	height: 500px;
+}
